@@ -28,7 +28,7 @@
         <h3><?= $projeto ?></h3><!--  shorttag = tag curta -->
 
         <ul>
-            <? include('./includes/listContacts.php') ?>
+            <?php include('./includes/listContacts.php') ?>
         </ul>
     </div>
 </body>
